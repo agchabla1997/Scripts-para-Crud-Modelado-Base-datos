@@ -1,0 +1,154 @@
+ db.names.remove({_id:ObjectId('61a37ca9c05757eeee923939')});
+WriteResult({ "nRemoved" : 1 })
+> db.names.remove({_id:ObjectId('61a37cb5c05757eeee92393a')});
+WriteResult({ "nRemoved" : 1 })
+> db.names.remove({_id:ObjectId('61a37ce8c05757eeee92393b')});
+WriteResult({ "nRemoved" : 1 })
+> db.names.remove({_id:ObjectId('61a37cf1c05757eeee92393c')});
+WriteResult({ "nRemoved" : 1 })
+> db.names.remove({_id:ObjectId('61a37cffc05757eeee92393d')});
+WriteResult({ "nRemoved" : 1 })
+> db.names.remove({_id:ObjectId('61a37d11c05757eeee92393e')});
+WriteResult({ "nRemoved" : 1 })
+> db.names.remove({_id:ObjectId('61a37d18c05757eeee92393f')});
+WriteResult({ "nRemoved" : 1 })
+> db.names.remove({_id:ObjectId('61a37d18c05757eeee92393f')});
+WriteResult({ "nRemoved" : 0 })
+> db.names.remove({_id:ObjectId('61a37d80c05757eeee923940')});
+WriteResult({ "nRemoved" : 1 })
+> db.names.remove({_id:ObjectId('61a37d8bc05757eeee923941')});
+WriteResult({ "nRemoved" : 1 })
+> db.names.remove({_id:ObjectId('61a37dacc05757eeee923942')});
+WriteResult({ "nRemoved" : 1 })
+> db.names.remove({_id:ObjectId('1a37dbac05757eeee923943')});
+Error: invalid object id: length :
+@(shell):1:22
+> db.names.remove({_id:ObjectId('61a37dbac05757eeee923943')});
+WriteResult({ "nRemoved" : 1 })
+> db.names.remove({_id:ObjectId('61a37dc3c05757eeee923944')});
+WriteResult({ "nRemoved" : 1 })
+> db.names.remove({_id:ObjectId('61a37dcec05757eeee923945')});
+WriteResult({ "nRemoved" : 1 })
+> db.names.remove({_id:ObjectId('61a37dd6c05757eeee923946')});
+WriteResult({ "nRemoved" : 1 })
+> db.names.remove({_id:ObjectId('61a37dd6c05757eeee923946')});
+WriteResult({ "nRemoved" : 0 })
+> db.names.remove({_id:ObjectId('61a37ddcc05757eeee923947')});
+WriteResult({ "nRemoved" : 1 })
+> db.names.remove({_id:ObjectId('61a37de5c05757eeee923948')});
+WriteResult({ "nRemoved" : 1 })
+> db.names.remove({_id:ObjectId('61a37debc05757eeee923949')});
+WriteResult({ "nRemoved" : 1 })
+> db.names.remove({_id:ObjectId('61a37df3c05757eeee92394a')});
+WriteResult({ "nRemoved" : 1 })
+> db.names.remove({_id:ObjectId('61a37df3c05757eeee92394a')});
+WriteResult({ "nRemoved" : 0 })
+> db.names.remove({_id:ObjectId('61a37dfbc05757eeee92394b')});
+WriteResult({ "nRemoved" : 1 })
+> db.names.remove({_id:ObjectId('61a37e02c05757eeee92394c')});
+WriteResult({ "nRemoved" : 1 })
+> db.names.remove({_id:ObjectId('61a37e0bc05757eeee92394d')});
+WriteResult({ "nRemoved" : 1 })
+> db.names.remove({_id:ObjectId('61a37e15c05757eeee92394e')});
+WriteResult({ "nRemoved" : 1 })
+> db.names.remove({_id:ObjectId('61a37e1cc05757eeee92394f')});
+WriteResult({ "nRemoved" : 1 })
+> db.names.remove({_id:ObjectId('61a37e1cc05757eeee92394f')});
+WriteResult({ "nRemoved" : 0 })
+> db.names.remove({_id:ObjectId('61a37e23c05757eeee923950')});
+WriteResult({ "nRemoved" : 1 })
+> db.names.remove({_id:ObjectId('61a37e2ac05757eeee923951')});
+WriteResult({ "nRemoved" : 1 })
+> db.names.remove({_id:ObjectId('61a37e33c05757eeee923952')});
+WriteResult({ "nRemoved" : 1 })
+> db.names.remove({_id:ObjectId('61a37e3ac05757eeee923953')});
+WriteResult({ "nRemoved" : 1 })
+> db.names.remove({_id:ObjectId('61a37e46c05757eeee923954')});
+WriteResult({ "nRemoved" : 1 })
+> db.names.remove({_id:ObjectId('61a37e7fc05757eeee923955')});
+WriteResult({ "nRemoved" : 1 })
+> db.names.remove({_id:ObjectId('61a37e8ac05757eeee923956')});
+WriteResult({ "nRemoved" : 1 })
+> db.names.remove({_id:ObjectId('61a37e92c05757eeee923957')});
+WriteResult({ "nRemoved" : 1 })
+> db.names.remove({_id:ObjectId('61a37e9ac05757eeee923958')});
+WriteResult({ "nRemoved" : 1 })
+> db.names.remove({_id:ObjectId('61a37ea1c05757eeee923959')});
+WriteResult({ "nRemoved" : 1 })
+> db.names.remove({_id:ObjectId('61a37ea7c05757eeee92395a')});
+WriteResult({ "nRemoved" : 1 })
+> db.names.remove({_id:ObjectId('61a37ea7c05757eeee92395a')});
+WriteResult({ "nRemoved" : 0 })
+> db.names.remove({_id:ObjectId('61a37eaec05757eeee92395b')});
+WriteResult({ "nRemoved" : 1 })
+> db.names.remove({_id:ObjectId('61a37eb9c05757eeee92395c')});
+WriteResult({ "nRemoved" : 1 })
+> db.names.remove({_id:ObjectId('61a37ec0c05757eeee92395d')});
+WriteResult({ "nRemoved" : 1 })
+> db.names.remove({_id:ObjectId('61a37ec6c05757eeee92395e')});
+WriteResult({ "nRemoved" : 1 })
+> db.names.remove({_id:ObjectId('61a37ecbc05757eeee92395f')});
+WriteResult({ "nRemoved" : 1 })
+> db.names.remove({_id:ObjectId('61a37ed3c05757eeee923960')});
+WriteResult({ "nRemoved" : 1 })
+> db.names.remove({_id:ObjectId('61a37edac05757eeee923961')});
+WriteResult({ "nRemoved" : 1 })
+> db.names.remove({_id:ObjectId('61a37ee2c05757eeee923962')});
+WriteResult({ "nRemoved" : 1 })
+> db.names.remove({_id:ObjectId('61a37ee9c05757eeee923963')});
+WriteResult({ "nRemoved" : 1 })
+> db.names.remove({_id:ObjectId('61a37ef2c05757eeee923964')});
+WriteResult({ "nRemoved" : 1 })
+> db.names.remove({_id:ObjectId('61a37efcc05757eeee923965')});
+WriteResult({ "nRemoved" : 1 })
+> db.names.remove({_id:ObjectId('61a37f0cc05757eeee923966')});
+WriteResult({ "nRemoved" : 1 })
+> db.names.remove({_id:ObjectId('61a37f0cc05757eeee923966')});
+WriteResult({ "nRemoved" : 0 })
+> db.names.remove({_id:ObjectId('61a37f16c05757eeee923967')});
+WriteResult({ "nRemoved" : 1 })
+> db.names.remove({_id:ObjectId('61a37f1cc05757eeee923968')});
+WriteResult({ "nRemoved" : 1 })
+> db.names.remove({_id:ObjectId('61a37f2cc05757eeee923969')});
+WriteResult({ "nRemoved" : 1 })
+> db.names.remove({_id:ObjectId('61a37f30c05757eeee92396a')});
+WriteResult({ "nRemoved" : 1 })
+> db.names.remove({_id:ObjectId('61a37f39c05757eeee92396b')});
+WriteResult({ "nRemoved" : 1 })
+> db.names.remove({_id:ObjectId('61a37f41c05757eeee92396c')});
+WriteResult({ "nRemoved" : 1 })
+> db.names.remove({_id:ObjectId('61a37f6cc05757eeee92396d')});
+WriteResult({ "nRemoved" : 1 })
+> db.names.remove({_id:ObjectId('61a37f75c05757eeee92396e')});
+WriteResult({ "nRemoved" : 1 })
+> db.names.remove({_id:ObjectId('61a37f7bc05757eeee92396f')});
+WriteResult({ "nRemoved" : 1 })
+> db.names.remove({_id:ObjectId('61a37f90c05757eeee923970')});
+WriteResult({ "nRemoved" : 1 })
+> db.names.remove({_id:ObjectId('61a37f9cc05757eeee923971')});
+WriteResult({ "nRemoved" : 1 })
+> db.names.remove({_id:ObjectId('61a37fa2c05757eeee923972')});
+WriteResult({ "nRemoved" : 1 })
+> db.names.remove({_id:ObjectId('61a37fb4c05757eeee923973')});
+WriteResult({ "nRemoved" : 1 })
+> db.names.remove({_id:ObjectId('61a37fbbc05757eeee923974')});
+WriteResult({ "nRemoved" : 1 })
+> db.names.remove({_id:ObjectId('61a37fc3c05757eeee923975')});
+WriteResult({ "nRemoved" : 1 })
+> db.names.remove({_id:ObjectId('61a37fd5c05757eeee923976')});
+WriteResult({ "nRemoved" : 1 })
+> db.names.remove({_id:ObjectId('61a37fdcc05757eeee923977')});
+WriteResult({ "nRemoved" : 1 })
+> db.names.remove({_id:ObjectId('61a37fe5c05757eeee923978')});
+WriteResult({ "nRemoved" : 1 })
+> db.names.remove({_id:ObjectId('61a37fedc05757eeee923979')});
+WriteResult({ "nRemoved" : 1 })
+> db.names.remove({_id:ObjectId('61a37ff4c05757eeee92397a')});
+WriteResult({ "nRemoved" : 1 })
+> db.names.remove({_id:ObjectId('61a38007c05757eeee92397b')});
+WriteResult({ "nRemoved" : 1 })
+> db.names.remove({_id:ObjectId('61a3800fc05757eeee92397c')});
+WriteResult({ "nRemoved" : 1 })
+> db.names.remove({_id:ObjectId('61a3801ac05757eeee92397d')});
+WriteResult({ "nRemoved" : 1 })
+> db.names.remove({_id:ObjectId('61a38025c05757eeee92397e')});
