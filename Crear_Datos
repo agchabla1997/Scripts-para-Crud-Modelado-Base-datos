@@ -1,0 +1,552 @@
+> db.names.insert({'name':'Luis'});
+WriteResult({ "nInserted" : 1 })
+> db.names.insert({'name':'Jefferson'});
+WriteResult({ "nInserted" : 1 })
+> db.names.insert({'name':'Juan'});
+WriteResult({ "nInserted" : 1 })
+> db.names.insert({'name':'Marlon'});
+WriteResult({ "nInserted" : 1 })
+> db.names.insert({'name':'Pedro'});
+WriteResult({ "nInserted" : 1 })
+> db.names.insert({'name':'Daniela'});
+WriteResult({ "nInserted" : 1 })
+> db.names.insert({'name':'Daniel'});
+WriteResult({ "nInserted" : 1 })
+> db.names.insert({'name':'Rodrigo'});
+WriteResult({ "nInserted" : 1 })
+> db.names.insert({'name':'Marcelo'});
+WriteResult({ "nInserted" : 1 })
+> db.names.insert({'name':'Alberto'});
+WriteResult({ "nInserted" : 1 })
+> db.names.insert({'name':'Santiago'});
+WriteResult({ "nInserted" : 1 })
+> db.names.insert({'name':'Julio'});
+WriteResult({ "nInserted" : 1 })
+> db.names.insert({'name':'Raul'});
+WriteResult({ "nInserted" : 1 })
+> db.names.insert({'name':'Maria'});
+WriteResult({ "nInserted" : 1 })
+> db.names.insert({'name':'Carmen'});
+WriteResult({ "nInserted" : 1 })
+> db.names.insert({'name':'Lusia'});
+WriteResult({ "nInserted" : 1 })
+> db.names.insert({'name':'Mariana'});
+WriteResult({ "nInserted" : 1 })
+> db.names.insert({'name':'Gissela'});
+WriteResult({ "nInserted" : 1 })
+> db.names.insert({'name':'Jessica'});
+WriteResult({ "nInserted" : 1 })
+> db.names.insert({'name':'Andrea'});
+WriteResult({ "nInserted" : 1 })
+> db.names.insert({'name':'Antonella'});
+WriteResult({ "nInserted" : 1 })
+> db.names.insert({'name':'Guadalupe'});
+WriteResult({ "nInserted" : 1 })
+> db.names.insert({'name':'Sol'});
+WriteResult({ "nInserted" : 1 })
+> db.names.insert({'name':'Taylor'});
+WriteResult({ "nInserted" : 1 })
+> db.names.insert({'name':'Ana'});
+WriteResult({ "nInserted" : 1 })
+> db.names.insert({'name':'Blanca'});
+WriteResult({ "nInserted" : 1 })
+> db.names.insert({'name':'Graciela'});
+WriteResult({ "nInserted" : 1 })
+> db.names.insert({'name':'Jammie'});
+WriteResult({ "nInserted" : 1 })
+> db.names.insert({'name':'Estefania'});
+WriteResult({ "nInserted" : 1 })
+> db.names.insert({'name':'Miriam'});
+WriteResult({ "nInserted" : 1 })
+> db.names.insert({'name':'Carolina'});
+WriteResult({ "nInserted" : 1 })
+> db.names.insert({'name':'Alison'});
+WriteResult({ "nInserted" : 1 })
+> db.names.insert({'name':'Karla'});
+WriteResult({ "nInserted" : 1 })
+> db.names.insert({'name':'Rebeca'});
+WriteResult({ "nInserted" : 1 })
+> db.names.insert({'name':'Roberta'});
+WriteResult({ "nInserted" : 1 })
+> db.names.insert({'name':'Maria Jose'});
+WriteResult({ "nInserted" : 1 })
+> db.names.insert({'name':'Julia'});
+WriteResult({ "nInserted" : 1 })
+> db.names.insert({'name':'Katy'});
+WriteResult({ "nInserted" : 1 })
+> db.names.insert({'name':'Bianca'});
+WriteResult({ "nInserted" : 1 })
+> db.names.insert({'name':'Rogelia'});
+WriteResult({ "nInserted" : 1 })
+> db.names.insert({'name':'Nikol'});
+WriteResult({ "nInserted" : 1 })
+> db.names.insert({'name':'Samanta'});
+WriteResult({ "nInserted" : 1 })
+> db.names.insert({'name':'Esmeralda'});
+WriteResult({ "nInserted" : 1 })
+> db.names.insert({'name':'Juliana'});
+WriteResult({ "nInserted" : 1 })
+> db.names.insert({'name':'Cecilia'});
+WriteResult({ "nInserted" : 1 })
+> db.names.insert({'name':'Elhizabet'});
+WriteResult({ "nInserted" : 1 })
+> db.names.insert({'name':'Octabia'});
+WriteResult({ "nInserted" : 1 })
+> db.names.insert({'name':'Moncerrat'});
+WriteResult({ "nInserted" : 1 })
+> db.names.insert({'name':'Greisi'});
+WriteResult({ "nInserted" : 1 })
+> db.names.insert({'name':'Greis'});
+WriteResult({ "nInserted" : 1 })
+> db.names.insert({'name':'Natalia'});
+WriteResult({ "nInserted" : 1 })
+> db.names.insert({'name':'Marcela'});
+WriteResult({ "nInserted" : 1 })
+> db.names.insert({'name':'joseph'});
+WriteResult({ "nInserted" : 1 })
+> db.names.insert({'name':'Valeria'});
+WriteResult({ "nInserted" : 1 })
+> db.names.insert({'name':'Melany'});
+WriteResult({ "nInserted" : 1 })
+> db.names.insert({'name':'Sungey'});
+WriteResult({ "nInserted" : 1 })
+> db.names.insert({'name':'Josselyn'});
+WriteResult({ "nInserted" : 1 })
+> db.names.insert({'name':'Odalia'});
+WriteResult({ "nInserted" : 1 })
+> db.names.insert({'name':'Byron'});
+WriteResult({ "nInserted" : 1 })
+> db.names.insert({'name':'Millie'});
+WriteResult({ "nInserted" : 1 })
+> db.names.insert({'name':'Julisa'});
+WriteResult({ "nInserted" : 1 })
+> db.names.insert({'name':'Johnder'});
+WriteResult({ "nInserted" : 1 })
+> db.names.insert({'name':'Anthony'});
+WriteResult({ "nInserted" : 1 })
+> db.names.insert({'name':'Patricio'});
+WriteResult({ "nInserted" : 1 })
+> db.names.insert({'name':'Raquel'});
+WriteResult({ "nInserted" : 1 })
+> db.names.insert({'name':'Jammes'});
+WriteResult({ "nInserted" : 1 })
+> db.names.insert({'name':'Giss'});
+WriteResult({ "nInserted" : 1 })
+> db.names.insert({'name':'Luis'});
+WriteResult({ "nInserted" : 1 })
+> db.names.insert({'name':'Karen'});
+WriteResult({ "nInserted" : 1 })
+> db.names.insert({'name':'Neidy'});
+WriteResult({ "nInserted" : 1 })
+> db.names.insert({'name':'Liss'});
+WriteResult({ "nInserted" : 1 })
+> db.names.insert({'name':'Jose'});
+WriteResult({ "nInserted" : 1 })
+> db.names.insert({'name':'Narcisa'});
+WriteResult({ "nInserted" : 1 })
+> db.names.insert({'name':'Candi'});
+WriteResult({ "nInserted" : 1 })
+> db.names.insert({'name':'Nicole'});
+WriteResult({ "nInserted" : 1 })
+> db.names.insert({'name':'Sebastian'});
+WriteResult({ "nInserted" : 1 })
+> db.names.insert({'name':'Selena'});
+WriteResult({ "nInserted" : 1 })
+> db.names.insert({'name':'Carolina'});
+WriteResult({ "nInserted" : 1 })
+> db.names.insert({'name':'Leonardo'});
+WriteResult({ "nInserted" : 1 })
+> db.names.insert({'name':'Sheila'});
+WriteResult({ "nInserted" : 1 })
+> db.names.insert({'name':'Jofre'});
+WriteResult({ "nInserted" : 1 })
+> db.names.insert({'name':'Brigithe'});
+WriteResult({ "nInserted" : 1 })
+> db.names.insert({'name':'Elvis'});
+WriteResult({ "nInserted" : 1 })
+> db.names.insert({'name':'Alexander'});
+WriteResult({ "nInserted" : 1 })
+> db.names.insert({'name':'Borys'});
+WriteResult({ "nInserted" : 1 })
+> db.names.insert({'name':'Alex'});
+WriteResult({ "nInserted" : 1 })
+> db.names.insert({'name':'Alexis'});
+WriteResult({ "nInserted" : 1 })
+> db.names.insert({'name':'Jhoana'});
+WriteResult({ "nInserted" : 1 })
+> db.names.insert({'name':'Natasha'});
+WriteResult({ "nInserted" : 1 })
+> db.names.insert({'name':'Jeampiere'});
+WriteResult({ "nInserted" : 1 })
+> db.names.insert({'name':'Fabian'});
+WriteResult({ "nInserted" : 1 })
+> db.names.insert({'name':'Maicol'});
+WriteResult({ "nInserted" : 1 })
+> db.names.insert({'name':'Evelyn'});
+WriteResult({ "nInserted" : 1 })
+> db.names.insert({'name':'Cinthya'});
+WriteResult({ "nInserted" : 1 })
+> db.names.insert({'name':'Katya'});
+WriteResult({ "nInserted" : 1 })
+> db.names.insert({'name':'Dilan'});
+WriteResult({ "nInserted" : 1 })
+> db.names.insert({'name':'Keler'});
+WriteResult({ "nInserted" : 1 })
+> db.names.insert({'name':'Sara'});
+WriteResult({ "nInserted" : 1 })
+> db.names.insert({'name':'Brandon'});
+WriteResult({ "nInserted" : 1 })
+> db.names.insert({'name':'Viviana'});
+WriteResult({ "nInserted" : 1 })
+> db.names.insert({'name':'Melaniee'});
+WriteResult({ "nInserted" : 1 })
+> db.names.insert({'name':'Amada'});
+WriteResult({ "nInserted" : 1 })
+> db.names.insert({'name':'Anderson'});
+WriteResult({ "nInserted" : 1 })
+> db.names.insert({'name':'Franciss'});
+WriteResult({ "nInserted" : 1 })
+> db.names.insert({'name':'Danilo'});
+WriteResult({ "nInserted" : 1 })
+> db.names.insert({'name':'Doris'});
+WriteResult({ "nInserted" : 1 })
+> db.names.insert({'name':'Doris'});
+WriteResult({ "nInserted" : 1 })
+> db.names.insert({'name':'Karoline'});
+WriteResult({ "nInserted" : 1 })
+> db.names.insert({'name':'Angie'});
+WriteResult({ "nInserted" : 1 })
+> db.names.insert({'name':'Romina'});
+WriteResult({ "nInserted" : 1 })
+> db.names.insert({'name':'Gene'});
+WriteResult({ "nInserted" : 1 })
+> db.names.insert({'name':'Ximena'});
+WriteResult({ "nInserted" : 1 })
+> db.names.insert({'name':'Gennesis'});
+WriteResult({ "nInserted" : 1 })
+> db.names.insert({'name':'Saul'});
+WriteResult({ "nInserted" : 1 })
+> db.names.insert({'name':'Elian'});
+WriteResult({ "nInserted" : 1 })
+> db.names.insert({'name':'Melissa'});
+WriteResult({ "nInserted" : 1 })
+> db.names.insert({'name':'Wladimir'});
+WriteResult({ "nInserted" : 1 })
+> db.names.insert({'name':'Mateus'});
+WriteResult({ "nInserted" : 1 })
+> db.names.insert({'name':'Roland'});
+WriteResult({ "nInserted" : 1 })
+> db.names.insert({'name':'Garbiela'});
+WriteResult({ "nInserted" : 1 })
+> db.names.insert({'name':'Gaby'});
+WriteResult({ "nInserted" : 1 })
+> db.names.insert({'name':'Katrina'});
+WriteResult({ "nInserted" : 1 })
+> db.names.insert({'name':'Alisson'});
+WriteResult({ "nInserted" : 1 })
+> db.names.insert({'name':'Kelly'});
+WriteResult({ "nInserted" : 1 })
+> db.names.insert({'name':'Steeven'});
+WriteResult({ "nInserted" : 1 })
+> db.names.insert({'name':'Erick'});
+WriteResult({ "nInserted" : 1 })
+> db.names.insert({'name':'Taniia'});
+WriteResult({ "nInserted" : 1 })
+> db.names.insert({'name':'Domenica'});
+WriteResult({ "nInserted" : 1 })
+> db.names.insert({'name':'Jinson'});
+WriteResult({ "nInserted" : 1 })
+> db.names.insert({'name':'Mishell'});
+WriteResult({ "nInserted" : 1 })
+> db.names.insert({'name':'Milena'});
+WriteResult({ "nInserted" : 1 })
+> db.names.insert({'name':'Jean Carlos'});
+WriteResult({ "nInserted" : 1 })
+> db.names.insert({'name':'Israel'});
+WriteResult({ "nInserted" : 1 })
+> db.names.insert({'name':'Santiago'});
+WriteResult({ "nInserted" : 1 })
+> db.names.insert({'name':'Lina'});
+WriteResult({ "nInserted" : 1 })
+> db.names.insert({'name':'Nathaly'});
+WriteResult({ "nInserted" : 1 })
+> db.names.insert({'name':'Emerson'});
+WriteResult({ "nInserted" : 1 })
+> db.names.insert({'name':'Wilsoon'});
+WriteResult({ "nInserted" : 1 })
+> db.names.insert({'name':'Kevin'});
+WriteResult({ "nInserted" : 1 })
+> db.names.insert({'name':'Alejandra'});
+WriteResult({ "nInserted" : 1 })
+> db.names.insert({'name':'Soledad'});
+WriteResult({ "nInserted" : 1 })
+> db.names.insert({'name':'Jennifer'});
+WriteResult({ "nInserted" : 1 })
+> db.names.insert({'name':'Marco'});
+WriteResult({ "nInserted" : 1 })
+> db.names.insert({'name':'Selena'});
+WriteResult({ "nInserted" : 1 })
+> db.names.insert({'name':'Marlen'});
+WriteResult({ "nInserted" : 1 })
+> db.names.insert({'name':'Diego'});
+WriteResult({ "nInserted" : 1 })
+> db.names.insert({'name':'Andrei'});
+WriteResult({ "nInserted" : 1 })
+> db.names.insert({'name':'Hugo'});
+WriteResult({ "nInserted" : 1 })
+> db.names.insert({'name':'Jimena'});
+WriteResult({ "nInserted" : 1 })
+> db.names.insert({'name':'Alexis'});
+WriteResult({ "nInserted" : 1 })
+> db.names.insert({'name':'Italo'});
+WriteResult({ "nInserted" : 1 })
+> db.names.insert({'name':'Nicole'});
+WriteResult({ "nInserted" : 1 })
+> db.names.insert({'name':'Pamela'});
+WriteResult({ "nInserted" : 1 })
+> db.names.insert({'name':'Donato'});
+WriteResult({ "nInserted" : 1 })
+> db.names.insert({'name':'Pamela'});
+WriteResult({ "nInserted" : 1 })
+> db.names.insert({'name':'Elian'});
+WriteResult({ "nInserted" : 1 })
+> db.names.insert({'name':'Richard'});
+WriteResult({ "nInserted" : 1 })
+> db.names.insert({'name':'André'});
+WriteResult({ "nInserted" : 1 })
+> db.names.insert({'name':'Rony'});
+WriteResult({ "nInserted" : 1 })
+> db.names.insert({'name':'Genderson'});
+WriteResult({ "nInserted" : 1 })
+> db.names.insert({'name':'Verónica'});
+WriteResult({ "nInserted" : 1 })
+> db.names.insert({'name':'Harrison'});
+WriteResult({ "nInserted" : 1 })
+> db.names.insert({'name':'Dayra'});
+WriteResult({ "nInserted" : 1 })
+> db.names.insert({'name':'Fabri'});
+WriteResult({ "nInserted" : 1 })
+> db.names.insert({'name':'Junior'});
+WriteResult({ "nInserted" : 1 })
+> db.names.insert({'name':'Leida'});
+WriteResult({ "nInserted" : 1 })
+> db.names.insert({'name':'Jeampol'});
+WriteResult({ "nInserted" : 1 })
+> db.names.insert({'name':'Gabyela'});
+WriteResult({ "nInserted" : 1 })
+> db.names.insert({'name':'Francisco'});
+WriteResult({ "nInserted" : 1 })
+> db.names.insert({'name':'Katherine'});
+WriteResult({ "nInserted" : 1 })
+> db.names.insert({'name':'Kasandra'});
+WriteResult({ "nInserted" : 1 })
+> db.names.insert({'name':'Nancy'});
+WriteResult({ "nInserted" : 1 })
+> db.names.insert({'name':'Henry'});
+WriteResult({ "nInserted" : 1 })
+> db.names.insert({'name':'Jarixa'});
+WriteResult({ "nInserted" : 1 })
+> db.names.insert({'name':'Julian'});
+WriteResult({ "nInserted" : 1 })
+> db.names.insert({'name':'Alejita'});
+WriteResult({ "nInserted" : 1 })
+> db.names.insert({'name':'Mauricio'});
+WriteResult({ "nInserted" : 1 })
+> db.names.insert({'name':'Leandro'});
+WriteResult({ "nInserted" : 1 })
+> db.names.insert({'name':'Joel'});
+WriteResult({ "nInserted" : 1 })
+> db.names.insert({'name':'Ariana'});
+WriteResult({ "nInserted" : 1 })
+> db.names.insert({'name':'Guille'});
+WriteResult({ "nInserted" : 1 })
+> db.names.insert({'name':'Rosangela'});
+WriteResult({ "nInserted" : 1 })
+> db.names.insert({'name':'Emilsen'});
+WriteResult({ "nInserted" : 1 })
+> db.names.insert({'name':'Fernando'});
+WriteResult({ "nInserted" : 1 })
+> db.names.insert({'name':'Paola'});
+WriteResult({ "nInserted" : 1 })
+> db.names.insert({'name':'Kali'});
+WriteResult({ "nInserted" : 1 })
+> db.names.insert({'name':'Tefy'});
+WriteResult({ "nInserted" : 1 })
+> db.names.insert({'name':'Robinson'});
+WriteResult({ "nInserted" : 1 })
+> db.names.insert({'name':'Alex'});
+WriteResult({ "nInserted" : 1 })
+> db.names.insert({'name':'Rosita'});
+WriteResult({ "nInserted" : 1 })
+> db.names.insert({'name':'Luz'});
+WriteResult({ "nInserted" : 1 })
+> db.names.insert({'name':'Margareth'});
+WriteResult({ "nInserted" : 1 })
+> db.names.insert({'name':'Dayana'});
+WriteResult({ "nInserted" : 1 })
+> db.names.insert({'name':'Lucho'});
+WriteResult({ "nInserted" : 1 })
+> db.names.insert({'name':'Noemi'});
+WriteResult({ "nInserted" : 1 })
+> db.names.insert({'name':'Dereck'});
+WriteResult({ "nInserted" : 1 })
+> db.names.insert({'name':'Jordy Polla'});
+WriteResult({ "nInserted" : 1 })
+> db.names.insert({'name':'Genesis'});
+WriteResult({ "nInserted" : 1 })
+> db.names.insert({'name':'Rither'});
+WriteResult({ "nInserted" : 1 })
+> db.names.insert({'name':'Fernand'});
+WriteResult({ "nInserted" : 1 })
+> db.names.insert({'name':'Cesar'});
+WriteResult({ "nInserted" : 1 })
+> db.names.insert({'name':'Thiago'});
+WriteResult({ "nInserted" : 1 })
+> db.names.insert({'name':'Tony'});
+WriteResult({ "nInserted" : 1 })
+> db.names.insert({'name':'Marcos'});
+WriteResult({ "nInserted" : 1 })
+> db.names.insert({'name':'Ben'});
+WriteResult({ "nInserted" : 1 })
+> db.names.insert({'name':'Kanté'});
+WriteResult({ "nInserted" : 1 })
+> db.names.insert({'name':'Mateo'});
+WriteResult({ "nInserted" : 1 })
+> db.names.insert({'name':'Jorgiño'});
+WriteResult({ "nInserted" : 1 })
+> db.names.insert({'name':'Mason'});
+WriteResult({ "nInserted" : 1 })
+> db.names.insert({'name':'Werner'});
+WriteResult({ "nInserted" : 1 })
+> db.names.insert({'name':'Hakin'});
+WriteResult({ "nInserted" : 1 })
+> db.names.insert({'name':'Kalum'});
+WriteResult({ "nInserted" : 1 })
+> db.names.insert({'name':'Pulisic'});
+WriteResult({ "nInserted" : 1 })
+> db.names.insert({'name':'Lukaku'});
+WriteResult({ "nInserted" : 1 })
+> db.names.insert({'name':'Kepa'});
+WriteResult({ "nInserted" : 1 })
+> db.names.insert({'name':'Cristensen'});
+WriteResult({ "nInserted" : 1 })
+> db.names.insert({'name':'Sarr'});
+WriteResult({ "nInserted" : 1 })
+> db.names.insert({'name':'Souma'});
+WriteResult({ "nInserted" : 1 })
+> db.names.insert({'name':'Kristina'});
+WriteResult({ "nInserted" : 1 })
+> db.names.insert({'name':'Ruben'});
+WriteResult({ "nInserted" : 1 })
+> db.names.insert({'name':'Olger'});
+WriteResult({ "nInserted" : 1 })
+> db.names.insert({'name':'Jeremy'});
+WriteResult({ "nInserted" : 1 })
+> db.names.insert({'name':'Yair'});
+WriteResult({ "nInserted" : 1 })
+> db.names.insert({'name':'Diana'});
+WriteResult({ "nInserted" : 1 })
+> db.names.insert({'name':'Paul'});
+WriteResult({ "nInserted" : 1 })
+> db.names.insert({'name':'Pablo'});
+WriteResult({ "nInserted" : 1 })
+> db.names.insert({'name':'Giovanna'});
+WriteResult({ "nInserted" : 1 })
+> db.names.insert({'name':'Manuel'});
+WriteResult({ "nInserted" : 1 })
+> db.names.insert({'name':'Jesus'});
+WriteResult({ "nInserted" : 1 })
+> db.names.insert({'name':'Camilo'});
+WriteResult({ "nInserted" : 1 })
+> db.names.insert({'name':'Samuel'});
+WriteResult({ "nInserted" : 1 })
+> db.names.insert({'name':'Josue'});
+WriteResult({ "nInserted" : 1 })
+> db.names.insert({'name':'Maylenn'});
+WriteResult({ "nInserted" : 1 })
+> db.names.insert({'name':'Dean'});
+WriteResult({ "nInserted" : 1 })
+> db.names.insert({'name':'Leonel'});
+WriteResult({ "nInserted" : 1 })
+> db.names.insert({'name':'Cristiano'});
+WriteResult({ "nInserted" : 1 })
+> db.names.insert({'name':'Leonel'});
+WriteResult({ "nInserted" : 1 })
+> db.names.insert({'name':'Angel'});
+WriteResult({ "nInserted" : 1 })
+> db.names.insert({'name':'Victor'});
+WriteResult({ "nInserted" : 1 })
+> db.names.insert({'name':'Alexito'});
+WriteResult({ "nInserted" : 1 })
+> db.names.insert({'name':'Kelly'});
+WriteResult({ "nInserted" : 1 })
+> db.names.insert({'name':'Krishna'});
+WriteResult({ "nInserted" : 1 })
+> db.names.insert({'name':'Ivan'});
+WriteResult({ "nInserted" : 1 })
+> db.names.insert({'name':'Galo'});
+WriteResult({ "nInserted" : 1 })
+> db.names.insert({'name':'Emilie'});
+WriteResult({ "nInserted" : 1 })
+> db.names.insert({'name':'Esteban'});
+WriteResult({ "nInserted" : 1 })
+> db.names.insert({'name':'Walter'});
+WriteResult({ "nInserted" : 1 })
+> db.names.insert({'name':'Pame'});
+WriteResult({ "nInserted" : 1 })
+> db.names.insert({'name':'Jonsho'});
+WriteResult({ "nInserted" : 1 })
+> db.names.insert({'name':'Skarlett'});
+WriteResult({ "nInserted" : 1 })
+> db.names.insert({'name':'Eugenio'});
+WriteResult({ "nInserted" : 1 })
+> db.names.insert({'name':'Wendi'});
+WriteResult({ "nInserted" : 1 })
+> db.names.insert({'name':'Ignacio'});
+WriteResult({ "nInserted" : 1 })
+> db.names.insert({'name':'Dennis'});
+WriteResult({ "nInserted" : 1 })
+> db.names.insert({'name':'Ammir'});
+WriteResult({ "nInserted" : 1 })
+> db.names.insert({'name':'Drwin'});
+WriteResult({ "nInserted" : 1 })
+> db.names.insert({'name':'Abbigail'});
+WriteResult({ "nInserted" : 1 })
+> db.names.insert({'name':'Angy'});
+WriteResult({ "nInserted" : 1 })
+> db.names.insert({'name':'Manfred'});
+WriteResult({ "nInserted" : 1 })
+> db.names.insert({'name':'Jairo'});
+WriteResult({ "nInserted" : 1 })
+> db.names.insert({'name':'Emma'});
+WriteResult({ "nInserted" : 1 })
+> db.names.insert({'name':'Nexar'});
+WriteResult({ "nInserted" : 1 })
+> db.names.insert({'name':'Micaela'});
+WriteResult({ "nInserted" : 1 })
+> db.names.insert({'name':'Araceli'});
+WriteResult({ "nInserted" : 1 })
+> db.names.insert({'name':'Jordy'});
+WriteResult({ "nInserted" : 1 })
+> db.names.insert({'name':'Alan'});
+WriteResult({ "nInserted" : 1 })
+> db.names.insert({'name':'Smith'});
+WriteResult({ "nInserted" : 1 })
+> db.names.insert({'name':'German'});
+WriteResult({ "nInserted" : 1 })
+> db.names.insert({'name':'Stephanie'});
+WriteResult({ "nInserted" : 1 })
+> db.names.insert({'name':'Jerson'});
+WriteResult({ "nInserted" : 1 })
+> db.names.insert({'name':'Joshua'});
+WriteResult({ "nInserted" : 1 })
+> db.names.insert({'name':'Susana'});
+WriteResult({ "nInserted" : 1 })
+> db.names.insert({'name':'Bertha'});
+WriteResult({ "nInserted" : 1 })
+> db.names.insert({'name':'Annie'});
+WriteResult({ "nInserted" : 1 })
+> db.names.insert({'name':'Ibeth'});
+WriteResult({ "nInserted" : 1 })
+> db.names.insert({'name':'Cinthya'});
+WriteResult({ "nInserted" : 1 })
